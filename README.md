@@ -12,8 +12,8 @@
 | Period | Project | Teck Stack | Role |
 | --- | --- | --- | --- |
 | 2024.06.~2024.08. | [Pirogramming Attend Web](https://github.com/Pironeer-APP/Pironeer_Attend_Web_Client) | React, Zustand, Styled Component | Design, FE |
-| 2024.03.~2024.03. | [SKYST Hackerton](https://github.com/Yeonu-Kim/skyst_gwanaksan) | React | PM, Design, FE |
-| 2024.01.~2024.02. | [MakeMate](https://github.com/Pirogramming-20/MakeMate) | Django, Vanilla JS | PM, Design, FE, BE |
+| 2024.03.~2024.03. | [SKYST Hackerton](https://github.com/Yeonu-Kim/skyst_gwanaksan) | React | Leader, PM, Design, FE |
+| 2024.01.~2024.02. | [MakeMate](https://github.com/Pirogramming-20/MakeMate) | Django, Vanilla JS | Leader, PM, Design, FE, BE |
 
 <br />
 
