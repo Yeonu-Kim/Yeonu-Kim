@@ -27,7 +27,7 @@
 - **💼 Member of Pironeer 21th (2024.03~2024.08)**
     - Pirogramming Internal Web/App Development Organization
     - Working as a FE developer
-- **💼 Member of INIT (2024.03~2024.08)**
+- **💼 Member of INIT (2023.03~2023.08)**
     - SCSC Internal Web/App Development Organization
     - Working as a designer with web publishing
 - **✨ President of Pirogramming 21th (2024.03~2024.08)**
