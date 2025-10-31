@@ -4,5 +4,6 @@
 - **Seoul National University** (2021 ~ ) : Landscape Architecture & Electrical & Computer Engineering
 
 ## 🔗 Links
-- 📄 [**CV**](**https://drive.google.com/drive/folders/1S4iDqf2srZyynUK1e_aC3D1Tj0LC7eSX?usp=sharing**)
+- 📄 [**CV**](https://drive.google.com/file/d/1TMlUDfHAxPLL3YfOEpmGeDwQRZaswAHT/view?usp=drive_link)
+- 
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/yeonu-kim-00868730a/)
