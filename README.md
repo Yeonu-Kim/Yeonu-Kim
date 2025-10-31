@@ -1,36 +1,8 @@
-## Tech Stack
+# 👋 Hi, I'm **Yeonu Kim**
 
-- React
-- Tanstack Query, Zustand
-- Styled-Components, Tailwind
-- Django, Node.js(Express)
+🎓 **Undergraduate Student**  
+- **Seoul National University** (2021 ~ ) : Landscape Architecture & Electrical & Computer Engineering
 
-<br />
-
-## Project
-
-| Period | Project | Teck Stack | Role |
-| --- | --- | --- | --- |
-| 2024.06.~2024.08. | [Pirogramming Attend Web](https://github.com/Pironeer-APP/Pironeer_Attend_Web_Client) | React, Zustand, Styled Component | Design, FE |
-| 2024.03. | [SKYST Hackerton](https://github.com/Yeonu-Kim/skyst_gwanaksan) | React | Leader, PM, Design, FE |
-| 2024.01.~2024.02. | [MakeMate](https://github.com/Pirogramming-20/MakeMate) | Django, Vanilla JS | Leader, PM, Design, FE, BE |
-
-<br />
-
-## Community
-
-- **🥈 Second Prize in SKYST Hackerton 2024 (2024.03)**
-    - Total Participants: 100
-- **💼 Pre-member of Wafflestudio 22.5 (2024.09~Current)**
-    - Web/App Developer Community in Seoul National University
-    - Working as a FE developer
-- **💼 Member of Pironeer 21th (2024.03~2024.08)**
-    - Pirogramming Internal Web/App Development Organization
-    - Working as a FE developer
-- **💼 Member of INIT (2022.09~2023.03)**
-    - SCSC Official Web Development Organization
-    - Working as a designer with web publishing
-- **✨ President of Pirogramming 21th (2023.12~2024.08)**
-    - Web Developer Community
-- **✨ President of SCSC (2022.09~2023.02)**
-    - Computer Study Club in Seoul National University
+## 🔗 Links
+- 📄 [**CV**](https://drive.google.com/drive/folders/1S4iDqf2srZyynUK1e_aC3D1Tj0LC7eSX?usp=sharing)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/yeonu-kim-00868730a/)
